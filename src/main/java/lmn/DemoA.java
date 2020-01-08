@@ -1,8 +1,9 @@
 package lmn;
 
-public class BasePage {
-
+public class DemoA 
+{
 	public static void main(String[] args) {
-		System.out.println("hi heelo");
+		System.out.println("demoA");
 	}
+
 }
